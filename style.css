@@ -46,6 +46,6 @@
     
         .cavalo-move {
             position: relative; /* or absolute */
-            left: 750px;  /* move 50px to the right */
-            top: -70px;   /* move 20px down */
+            left: 850px;  /* move 50px to the right */
+            top: -50px;   /* move 20px down */
         }
