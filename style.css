@@ -58,6 +58,6 @@
 
         .vaquinha-move {
             position: relative; /* or absolute */
-            left: 200px;  /* move 50px to the right */
-            top: 0px;   /* move 20px down */
+            left: 350px;  /* move 50px to the right */
+            top: 10px;   /* move 20px down */
         }
