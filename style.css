@@ -44,3 +44,8 @@
             background-color: #1a1616ab;
         }
     
+        .cavalo-move {
+            position: relative; /* or absolute */
+            left: 750px;  /* move 50px to the right */
+            top: -70px;   /* move 20px down */
+        }
