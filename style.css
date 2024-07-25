@@ -52,6 +52,6 @@
 
         .vaca-move {
             position: relative; /* or absolute */
-            left: 400px;  /* move 50px to the right */
+            left: 380px;  /* move 50px to the right */
             top: -30px;   /* move 20px down */
         }
