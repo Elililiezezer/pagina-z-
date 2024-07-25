@@ -4,7 +4,7 @@
     }
     body{
     background-image: url("/img/pastao.jpg") ;
-    background-size: 1000px 500px; /* ajusta o tamanho da imagem */
+    background-size: 1200px 500px; /* ajusta o tamanho da imagem */
     background-repeat: no-repeat; /* Para evitar a repetição da imagem */
     background-color: #131313;
     overflow: hidden;
