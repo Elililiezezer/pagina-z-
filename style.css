@@ -4,7 +4,7 @@
     }
     body{
     background-image: url("/img/forest.jpg") ;
-    background-size: 1350px 700px; /* ajusta o tamanho da imagem */
+    background-size: 1200px 600px; /* ajusta o tamanho da imagem */
     background-repeat: no-repeat; /* Para evitar a repetição da imagem */
     background-color: #131313;
     overflow: hidden;
