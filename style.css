@@ -4,7 +4,7 @@
     }
     body{
     background-image: url("/img/faznda.jpg") ;
-    background-size: 1320px 750px; /* ajusta o tamanho da imagem */
+    background-size: 1320px 500px; /* ajusta o tamanho da imagem */
     background-repeat: no-repeat; /* Para evitar a repetição da imagem */
     background-color: #131313;
     overflow: hidden;
