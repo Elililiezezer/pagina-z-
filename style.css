@@ -4,7 +4,7 @@
     }
     body{
     background-image: url("/img/pastinho.jpg") ;
-    background-size: 1100px 500px; /* ajusta o tamanho da imagem */
+    background-size: 1500px 800px; /* ajusta o tamanho da imagem */
     background-repeat: no-repeat; /* Para evitar a repetição da imagem */
     background-color: #131313;
     overflow: hidden;
