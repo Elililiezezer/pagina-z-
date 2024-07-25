@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    body{
+    background-image: url("/img/faznda.jpg") ;
+    background-size: 1320px 750px; /* ajusta o tamanho da imagem */
+    background-repeat: no-repeat; /* Para evitar a repetição da imagem */
+    background-color: #131313;
+    overflow: hidden;
+    }
+
+    .texto-container {
+        width: 80%; /* Largura do container */
+        margin: 50px auto; /* muda a altura do container na página */
+        padding: 20px; /* Espaçamento interno do container */
+        background-color: #1a1616ab; /* Cor de fundo do container */
+        border: 1px solid #ccc; /* Borda do container */
+        border-radius: 8px; /* Borda arredondada */
+        overflow: hidden; /* Limpa o float */
+    }
+
+    .texto-container img {
+            float: left; /* Flutua a imagem para a esquerda */
+            margin-right: 20px; /* Espaço entre a imagem e o texto */
+            border-radius: 8px;
+        }
+
+        .botao-personalizado {
+            background-color: #1a1616ab; /* Verde */
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 30px 200px;
+            cursor: pointer;
+            border-radius: 12px;
+        }
+
+        .botao-personalizado:hover {
+            background-color: #1a1616ab;
+        }
+    
