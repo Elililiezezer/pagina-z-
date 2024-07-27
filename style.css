@@ -65,11 +65,11 @@
         .gato-move {
             position: relative; /* or absolute */
             left: 900px;  /* move 50px to the right */
-            top: -45px;   /* move 20px down */
+            top: 15px;   /* move 20px down */
         }
 
         .pug-move {
             position: relative; /* or absolute */
             left: 500px;  /* move 50px to the right */
-            top: -45px;   /* move 20px down */
+            top: 10px;   /* move 20px down */
         }
