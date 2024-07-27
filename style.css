@@ -67,3 +67,9 @@
             left: 900px;  /* move 50px to the right */
             top: -45px;   /* move 20px down */
         }
+
+        .pug-move {
+            position: relative; /* or absolute */
+            left: 500px;  /* move 50px to the right */
+            top: -45px;   /* move 20px down */
+        }
