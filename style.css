@@ -58,6 +58,6 @@
 
         .vacas-move {
             position: relative; /* or absolute */
-            left: 150px;  /* move 50px to the right */
+            left: 100px;  /* move 50px to the right */
             top: -20px;   /* move 20px down */
         }
