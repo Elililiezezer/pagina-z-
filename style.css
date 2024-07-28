@@ -49,4 +49,9 @@
             left: 950px;  /* move 50px to the right */
             top: -45px;   /* move 20px down */
         }
-.
+
+        .vaca-move {
+            position: relative;
+            left: 350px;
+            top -35px;
+        }
