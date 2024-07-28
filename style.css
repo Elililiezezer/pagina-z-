@@ -49,27 +49,4 @@
             left: 950px;  /* move 50px to the right */
             top: -45px;   /* move 20px down */
         }
-
-        .vaca-move {
-            position: relative; /* or absolute */
-            left: 380px;  /* move 50px to the right */
-            top: -30px;   /* move 20px down */
-        }
-
-        .vaquinha-move {
-            position: relative; /* or absolute */
-            left: 350px;  /* move 50px to the right */
-            top: 0px;   /* move 20px down */
-        }
-
-        .gato-move {
-            position: relative; /* or absolute */
-            left: 900px;  /* move 50px to the right */
-            top: 15px;   /* move 20px down */
-        }
-
-        .pug-move {
-            position: relative; /* or absolute */
-            left: 500px;  /* move 50px to the right */
-            top: 10px;   /* move 20px down */
-        }
+.
