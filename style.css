@@ -44,8 +44,14 @@
             background-color: #1a1616ab;
         }
     
-        .cavalo-move {
+        .porco-move {
             position: relative; /* or absolute */
             left: 950px;  /* move 50px to the right */
-            top: -35px;   /* move 20px down */
+            top: -25px;   /* move 20px down */
+        }
+
+        .vaca-move {
+            position: relative; /* or absolute */
+            left: 350px;  /* move 50px to the right */
+            top: -25px;   /* move 20px down */
         }
