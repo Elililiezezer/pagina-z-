@@ -59,7 +59,7 @@
         .vaquinha-move {
             position: relative; /* or absolute */
             left: 350px;  /* move 50px to the right */
-            top: -30px;   /* move 20px down */
+            top: 0px;   /* move 20px down */
         }
 
         .gato-move {
