@@ -55,3 +55,9 @@
             left: 310px;  /* move 50px to the right */
             top: 40px;   /* move 20px down */
         }
+
+        .vacas-move {
+            position: relative; /* or absolute */
+            left: 200px;  /* move 50px to the right */
+            top: 40px;   /* move 20px down */
+        }
