@@ -61,3 +61,7 @@
             left: 100px;  /* move 50px to the right */
             top: -100px;   /* move 20px down */
         }
+
+        .text-color{
+            color: #fcf7f7;
+        }
