@@ -46,8 +46,8 @@
     
         .porco-move {
             position: relative; /* or absolute */
-            left: 1050px;  /* move 50px to the right */
-            top: 0px;   /* move 20px down */
+            left: 1250px;  /* move 50px to the right */
+            top: 100px;   /* move 20px down */
         }
 
         .vaca-move {
